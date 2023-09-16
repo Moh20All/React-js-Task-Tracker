@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Buy groceries",
+      "day": "2023-09-03 T 10:00:00",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Finish project report",
+      "day": "2023-09-04 T 15:30:00",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Go to the gym",
+      "day": "2023-09-05 T 08:45:00",
+      "reminder": true
+    },
+    {
+      "text": "Repair",
+      "day": "tomorow 11pm",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
